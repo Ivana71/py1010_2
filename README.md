@@ -1,1 +1,1 @@
-# py1010_2
+# dette er readme-filen til repo-en py1010_2
